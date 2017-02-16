@@ -6,4 +6,4 @@
 
 Open-DIS is developed mainly by the [MOVES Institute at the Naval Postgraduate School](https://www.movesinstitute.org). Participation by other individuals and groups is welcome and encouraged.
 
-Find us on https://github.com/open-dis
+Find us on [GitHub](https://github.com/open-dis).
