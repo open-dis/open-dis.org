@@ -63,6 +63,10 @@ The W3C has been working on the Efficient XML Interchange format, an alternate e
 
 # Developers
 
+## Don McGregor
+
+Don McGregor is a software developer at the Naval Postgraduate School. He created the Open-DIS project after becoming annoyed at the lack of an open source implementation. He is primarily to blame for the Java implementation.
+
 ## John Grant
 
 John Grant is a former developer for the Delta3D game engine who has now gone on to grab some of the filthy lucre offered by private industry. He specified much of the C++ code interface and integrated Open-DIS into the Delta3D game engine.
