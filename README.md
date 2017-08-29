@@ -90,3 +90,19 @@ Dioselin Gonzalez is a research scientist/software developer in the University o
 ## Don Brutzman
 
 Don Brutzman is a is Technical Director of for 3D Visual Simulation at the MOVES Institute. He is an Associate Professor at the Naval Postgraduate School in Monterey, California. Professor Brutzman kept on asking why there wasn’t an open source implementation of DIS, and why it couldn’t be also be represented in XML. He also has a longstanding interest in compact representations of XML, such as EXI, and in applying web services to DoD Modeling and Simulation.
+
+# Users
+
+As a general rule, users in the DoD world keep quiet. If you’d like your project advertised, send in a link.
+
+## AUV Workbench
+
+AUV Workbench is a tool for rehearsal and playback of autonomous vehicle operations. AUV Workbench makes use of both the binary and XML serialization formats. It can send both IEEE binary and XML formats, and can send messages over XMPP chat rooms.
+ 
+## X3D-Edit
+
+X3D-Edit is a tool for writing X3D models. X3D-Edit can also generate, record, and play back DIS, and visualize the movement in an X3D scene.
+
+## Delta3D
+
+Delta3D is an open source game engine. It uses the C++ implementation of C++ as one of its communications protocols (in addition to HLA).
