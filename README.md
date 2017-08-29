@@ -22,3 +22,4 @@ DIS is a network protocol. It describes the exact layout of a few dozen Protocol
 * [Wikipedia DIS Page](http://en.wikipedia.org/wiki/Distributed_Interactive_Simulation)
 * [Virtual Combat by David Neyland](http://www.amazon.com/Virtual-Combat-Distributed-Interactive-Simulation/dp/0811731251/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1236275434&sr=8-1)
 
+![](B52.png)
