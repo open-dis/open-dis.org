@@ -60,3 +60,29 @@ The W3C has been working on the Efficient XML Interchange format, an alternate e
 * [IEEE VR 2010 Presentation from Univ. of Louisiana](SEARIS2010-1.pdf)
 
 ![](shapeimage_2.png)
+
+# Developers
+
+## John Grant
+
+John Grant is a former developer for the Delta3D game engine who has now gone on to grab some of the filthy lucre offered by private industry. He specified much of the C++ code interface and integrated Open-DIS into the Delta3D game engine.
+
+## Peter Smith
+
+Peter Smith is Electronics Engineer and Software Developer who works for the Naval Air Warfare Center.  He has done the work on the C# Open DIS implementation.
+
+## Robert Harder
+
+Robert Harder is an officer in the US Air Force. He implemented a Java NIO marshalling API that reduced memory use in real-time applications.
+
+## Sheldon Snyder
+
+Sheldon Snyder is a a US Navy Officer. He implemented a dead reckoning library in Java.
+
+## Dioselin Gonzalez
+
+Dioselin Gonzalez is a research scientist/software developer in the University of Louisiana at Lafayette. She specializes in collaborative virtual reality. Dio implemented C++ enumerations.
+
+## Don Brutzman
+
+Don Brutzman is a is Technical Director of for 3D Visual Simulation at the MOVES Institute. He is an Associate Professor at the Naval Postgraduate School in Monterey, California. Professor Brutzman kept on asking why there wasn’t an open source implementation of DIS, and why it couldn’t be also be represented in XML. He also has a longstanding interest in compact representations of XML, such as EXI, and in applying web services to DoD Modeling and Simulation.
