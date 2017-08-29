@@ -38,3 +38,25 @@ Don McGregor (mcgredo at nps dot edu) is the technical lead for the project.
 * [NPS Foundation Donations](https://www.npsfoundation.org/donation.php)
 
 ![](GOLDENGATE.png)
+
+# Papers & Presentations
+
+Papers
+
+Several people have put together various papers and powerpoint presentations over the course of developing the software. Some links to them are at left.
+
+One of the themes MOVES has been working on the near-universal representation of data in XML format. To this end we have a marshaling option for DIS PDUs that writes out the contents of the PDU in XML format. Once in XML format we can use all the usual XML tools on it, including XSLT, XML-to-SQL tools, and so on.
+
+Using XML format DIS PDUs in the realtime applications rather than merely as an archive format is clearly a challenge; DIS is sent in volume over the network, needs to be parsed in real time, and XML representations of the DIS data are about an order of magnitude larger than the IEEE format.
+
+The W3C has been working on the Efficient XML Interchange format, an alternate encoding for XML that is more compact, in exchange for giving up XML’s text-only requirement. XML-format DIS encoded with EXI is about the same size as IEEE-format DIS, while retaining the benefits of being represented in XML format.
+
+* [SISO Paper on Open-DIS](SisoDISPaper.pdf)
+* [Open-DIS flyer](Open-DIS-flyer.pdf)
+* [Open-DIS Powerpoint Open-DIS.ppt](Open-DIS.ppt)
+* [Efficient XML Interchange (EXI)  and DIS](ExiComparisons.ppt)
+* [Efficient XML Interchange Introduction--W3C standard for a more compact representation of XML](ExiLecture.ppt)
+* [IEEE VR 2010 Paper from the University of Louisiana: Integrating the DIS Standards Into a Fully-Immersive Simulation Application](searis_paper40-1.pdf)
+* [IEEE VR 2010 Presentation from Univ. of Louisiana](SEARIS2010-1.pdf)
+
+![](shapeimage_2.png)
