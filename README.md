@@ -17,7 +17,7 @@ DIS is an IEEE standard (IEEE-1278.1) developed by the Simulation Interoperabili
 DIS is a network protocol. It describes the exact layout of a few dozen Protocol Data Units (PDUs) that contain information about the position and orientation of entities in the world, and much else. The are PDUs that describe electronic warfare, logistics, collisions, and simulation management.
 
 * [DIS Plain and Simple: an Introduction to DIS](https://www.google.ca/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwjQs8HsoPvVAhVi4IMKHZHyC_cQFggoMAA&url=https%3A%2F%2Fwww.sisostds.org%2FDigitalLibrary.aspx%3FCommand%3DCore_Download%26EntryId%3D29302&usg=AFQjCNHbhiBCVmEDrTaWZBD2tFUWKg4yVw)
-* [SISO DIS Protocol Support Group](http://www.sisostds.org/index.php?tg=articles&idx=More&article=449&topics=110)
+* [SISO DIS Protocol Support Group](https://www.sisostds.org/StandardsActivities/SupportGroups/DISRPRFOMPSG.aspx)
 * [SISO DIS Protocol Development Group (Members Only)](http://www.sisostds.org/index.php?tg=articles&idx=More&topics=22&article=44)
 * [Wikipedia DIS Page](http://en.wikipedia.org/wiki/Distributed_Interactive_Simulation)
 * [Virtual Combat by David Neyland](http://www.amazon.com/Virtual-Combat-Distributed-Interactive-Simulation/dp/0811731251/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1236275434&sr=8-1)
