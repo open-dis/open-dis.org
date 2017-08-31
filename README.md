@@ -35,7 +35,7 @@ Contact Don Brutzman (brutzman at nps dot edu) if you are interested in collabor
 Don McGregor (mcgredo at nps dot edu) is the technical lead for the project.
 
 * [Don Brutzman Web Page: Institutional Collaboration](http://faculty.nps.edu/brutzman/brutzman.html)
-* [NPS Foundation Donations](https://www.npsfoundation.org/donation.php)
+* [NPS Foundation Donations](http://www.npsfoundation.org/donate)
 
 ![](GOLDENGATE.png)
 
