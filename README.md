@@ -89,6 +89,10 @@ Dioselin Gonzalez is a research scientist/software developer in the University o
 
 Don Brutzman is a is Technical Director of for 3D Visual Simulation at the MOVES Institute. He is an Associate Professor at the Naval Postgraduate School in Monterey, California. Professor Brutzman kept on asking why there wasn’t an open source implementation of DIS, and why it couldn’t be also be represented in XML. He also has a longstanding interest in compact representations of XML, such as EXI, and in applying web services to DoD Modeling and Simulation.
 
+## Leif Gruenwoldt
+
+Leif Gruenwoldt is a software developer employed as a contractor for the Department of National Defence, Canada. He is primarly responsible for maintaining the Java implementation which has included migrating the build system to Maven, publishing artifacts to Maven Central, adding JUnit tests, squashing bugs, and enabling continous integration with Travis CI. He is responsible for maintaining open-dis.org. And he helped migrate from SourceForge to GitHub. 
+
 # Users
 
 As a general rule, users in the DoD world keep quiet. If you’d like your project advertised, send in a link.
