@@ -91,7 +91,7 @@ Don Brutzman is a is Technical Director of for 3D Visual Simulation at the MOVES
 
 ## Leif Gruenwoldt
 
-Leif Gruenwoldt is a software developer employed as a contractor for the Department of National Defence, Canada. He is primarly responsible for maintaining the Java implementation which has included migrating the build system to Maven, publishing artifacts to Maven Central, adding JUnit tests, squashing bugs, and enabling continous integration with Travis CI. He is responsible for maintaining open-dis.org. And he helped migrate from SourceForge to GitHub. 
+Leif Gruenwoldt is a software developer employed as an embedded contractor for the Department of National Defence, Canada. He is primarly responsible for maintaining the Java implementation which has included migrating the build system to Maven, publishing artifacts to Maven Central, adding JUnit tests, squashing bugs, and enabling continous integration with Travis CI. He is responsible for maintaining open-dis.org. And he helped migrate from SourceForge to GitHub. 
 
 # Users
 
