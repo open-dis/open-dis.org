@@ -95,16 +95,22 @@ Leif Gruenwoldt is a software developer employed as an embedded contractor for t
 
 # Users
 
-As a general rule, users in the DoD world keep quiet. If you’d like your project advertised, send in a link.
+Based on project activity we believe there are many users of Open-DIS. But it's not well known where and how it's being used. We'd very much appreciate to hear from our users. Please feel free to open a pull request with a change to the below list to identify your project.
 
-## AUV Workbench
+## AUV Workbench (Naval Postgraduate School)
 
 AUV Workbench is a tool for rehearsal and playback of autonomous vehicle operations. AUV Workbench makes use of both the binary and XML serialization formats. It can send both IEEE binary and XML formats, and can send messages over XMPP chat rooms.
+
+https://savage.nps.edu/AuvWorkbench/
  
-## X3D-Edit
+## X3D-Edit (Naval Postgraduate School)
 
 X3D-Edit is a tool for writing X3D models. X3D-Edit can also generate, record, and play back DIS, and visualize the movement in an X3D scene.
 
-## Delta3D
+https://www.web3d.org/x3d/content/README.X3D-Edit.html
+
+## Delta3D (Naval Postgraduate School)
 
 Delta3D is an open source game engine. It uses the C++ implementation of C++ as one of its communications protocols (in addition to HLA).
+
+https://en.wikipedia.org/wiki/Delta3D
