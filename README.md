@@ -114,3 +114,7 @@ https://www.web3d.org/x3d/content/README.X3D-Edit.html
 Delta3D is an open source game engine. It uses the C++ implementation of Open-DIS as one of its communications protocols (in addition to HLA).
 
 https://en.wikipedia.org/wiki/Delta3D
+
+## Government of Canada
+
+The Government of Canada uses Open DIS library in several software applications relating to Modeling, Simulation & Training.
