@@ -117,4 +117,4 @@ https://en.wikipedia.org/wiki/Delta3D
 
 ## Government of Canada
 
-The Government of Canada uses Open DIS library in several software applications relating to Modeling, Simulation & Training.
+The Government of Canada uses the Java implementation of the Open DIS library in several software applications relating to Modeling, Simulation & Training.
