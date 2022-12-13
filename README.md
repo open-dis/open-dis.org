@@ -39,17 +39,20 @@ Don McGregor (mcgredo at nps dot edu) is the technical lead for the project.
 
 # Papers & Presentations
 
-Papers
-
 Several people have put together various papers and powerpoint presentations over the course of developing the Open DIS software. Some links to them are below.
 
+## Papers
+
 * [SISO Paper on Open-DIS](papers/SisoDISPaper.pdf)
-* [Open-DIS flyer](papers/Open-DIS-flyer.pdf)
-* [Open-DIS Powerpoint Open-DIS.ppt](papers/Open-DIS.ppt)
 * [2006 - DIS-XML: Moving DIS to Open Data Exchange Standards](papers/DIS-XML_Moving_DIS_to_Open_Data_Exchange_Standards.pdf)
+* [IEEE VR 2010 Paper from the University of Louisiana: Integrating the DIS Standards Into a Fully-Immersive Simulation Application](papers/searis_paper40-1.pdf)
+
+## Presentations
+
+* [Open-DIS Powerpoint Open-DIS.ppt](papers/Open-DIS.ppt)
+* [Open-DIS flyer](papers/Open-DIS-flyer.pdf)
 * [Efficient XML Interchange (EXI) and DIS](papers/ExiComparisions.ppt)
 * [Efficient XML Interchange Introduction--W3C standard for a more compact representation of XML](papers/ExiLecture.ppt)
-* [IEEE VR 2010 Paper from the University of Louisiana: Integrating the DIS Standards Into a Fully-Immersive Simulation Application](papers/searis_paper40-1.pdf)
 * [IEEE VR 2010 Presentation from Univ. of Louisiana](papers/SEARIS2010-1.pdf)
 
 ![](shapeimage_2.png)
