@@ -43,9 +43,9 @@ Several people have put together various papers and powerpoint presentations ove
 
 ## Papers
 
-* [SISO Paper on Open-DIS](papers/SisoDISPaper.pdf)
-* [2006 - DIS-XML: Moving DIS to Open Data Exchange Standards](papers/DIS-XML_Moving_DIS_to_Open_Data_Exchange_Standards.pdf)
+* [SISO Paper on Open-DIS: An Open Source Implementation of the DIS Protocol for C++ and Java](papers/SisoDISPaper.pdf)
 * [IEEE VR 2010 Paper from the University of Louisiana: Integrating the DIS Standards Into a Fully-Immersive Simulation Application](papers/searis_paper40-1.pdf)
+* [2006 - DIS-XML: Moving DIS to Open Data Exchange Standards](papers/DIS-XML_Moving_DIS_to_Open_Data_Exchange_Standards.pdf)
 
 ## Presentations
 
