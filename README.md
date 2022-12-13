@@ -52,7 +52,7 @@ The W3C has been working on the Efficient XML Interchange format, an alternate e
 * [SISO Paper on Open-DIS](SisoDISPaper.pdf)
 * [Open-DIS flyer](Open-DIS-flyer.pdf)
 * [Open-DIS Powerpoint Open-DIS.ppt](Open-DIS.ppt)
-* [Efficient XML Interchange (EXI)  and DIS](ExiComparisons.ppt)
+* [Efficient XML Interchange (EXI)  and DIS](ExiComparisions.ppt)
 * [Efficient XML Interchange Introduction--W3C standard for a more compact representation of XML](ExiLecture.ppt)
 * [IEEE VR 2010 Paper from the University of Louisiana: Integrating the DIS Standards Into a Fully-Immersive Simulation Application](searis_paper40-1.pdf)
 * [IEEE VR 2010 Presentation from Univ. of Louisiana](SEARIS2010-1.pdf)
