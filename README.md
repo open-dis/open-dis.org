@@ -49,13 +49,13 @@ Using XML format DIS PDUs in the realtime applications rather than merely as an 
 
 The W3C has been working on the Efficient XML Interchange format, an alternate encoding for XML that is more compact, in exchange for giving up XML’s text-only requirement. XML-format DIS encoded with EXI is about the same size as IEEE-format DIS, while retaining the benefits of being represented in XML format.
 
-* [SISO Paper on Open-DIS](SisoDISPaper.pdf)
-* [Open-DIS flyer](Open-DIS-flyer.pdf)
-* [Open-DIS Powerpoint Open-DIS.ppt](Open-DIS.ppt)
-* [Efficient XML Interchange (EXI)  and DIS](ExiComparisions.ppt)
-* [Efficient XML Interchange Introduction--W3C standard for a more compact representation of XML](ExiLecture.ppt)
-* [IEEE VR 2010 Paper from the University of Louisiana: Integrating the DIS Standards Into a Fully-Immersive Simulation Application](searis_paper40-1.pdf)
-* [IEEE VR 2010 Presentation from Univ. of Louisiana](SEARIS2010-1.pdf)
+* [SISO Paper on Open-DIS](papers/SisoDISPaper.pdf)
+* [Open-DIS flyer](papers/Open-DIS-flyer.pdf)
+* [Open-DIS Powerpoint Open-DIS.ppt](papers/Open-DIS.ppt)
+* [Efficient XML Interchange (EXI)  and DIS](papers/ExiComparisions.ppt)
+* [Efficient XML Interchange Introduction--W3C standard for a more compact representation of XML](papers/ExiLecture.ppt)
+* [IEEE VR 2010 Paper from the University of Louisiana: Integrating the DIS Standards Into a Fully-Immersive Simulation Application](papers/searis_paper40-1.pdf)
+* [IEEE VR 2010 Presentation from Univ. of Louisiana](papers/SEARIS2010-1.pdf)
 
 ![](shapeimage_2.png)
 
