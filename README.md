@@ -63,7 +63,7 @@ The W3C has been working on the Efficient XML Interchange format, an alternate e
 
 ## Don McGregor
 
-Don McGregor is a software developer at the Naval Postgraduate School. He created the Open-DIS project after becoming annoyed at the lack of an open source implementation. He is primarily to blame for the Java implementation.
+Don McGregor was a software developer at the Naval Postgraduate School (-2019). He created the Open-DIS project after becoming annoyed at the lack of an open source implementation. He is primarily to blame for the Java implementation.
 
 ## John Grant
 
@@ -87,7 +87,7 @@ Dioselin Gonzalez is a research scientist/software developer in the University o
 
 ## Don Brutzman
 
-Don Brutzman is a is Technical Director of for 3D Visual Simulation at the MOVES Institute. He is an Associate Professor at the Naval Postgraduate School in Monterey, California. Professor Brutzman kept on asking why there wasn’t an open source implementation of DIS, and why it couldn’t be also be represented in XML. He also has a longstanding interest in compact representations of XML, such as EXI, and in applying web services to DoD Modeling and Simulation.
+Don Brutzman is a Technical Director for 3D Visual Simulation at the MOVES Institute. He is an Associate Professor at the Naval Postgraduate School in Monterey, California. Professor Brutzman kept on asking why there wasn’t an open source implementation of DIS, and why it couldn’t be also be represented in XML. He also has a longstanding interest in compact representations of XML, such as EXI, and in applying web services to DoD Modeling and Simulation.
 
 ## Leif Gruenwoldt
 
