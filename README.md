@@ -49,11 +49,11 @@ Several people have put together various papers and powerpoint presentations ove
 
 ## Presentations
 
-* [Open-DIS Powerpoint Open-DIS.ppt](papers/Open-DIS.ppt)
-* [Open-DIS flyer](papers/Open-DIS-flyer.pdf)
-* [Efficient XML Interchange (EXI) and DIS](papers/ExiComparisions.ppt)
-* [Efficient XML Interchange Introduction--W3C standard for a more compact representation of XML](papers/ExiLecture.ppt)
-* [IEEE VR 2010 Presentation from Univ. of Louisiana](papers/SEARIS2010-1.pdf)
+* [Open-DIS Powerpoint Open-DIS.ppt](presentations/Open-DIS.ppt)
+* [Open-DIS flyer](presentations/Open-DIS-flyer.pdf)
+* [Efficient XML Interchange (EXI) and DIS](presentations/ExiComparisions.ppt)
+* [Efficient XML Interchange Introduction--W3C standard for a more compact representation of XML](presentations/ExiLecture.ppt)
+* [IEEE VR 2010 Presentation from Univ. of Louisiana](presentations/SEARIS2010-1.pdf)
 
 ![](shapeimage_2.png)
 
