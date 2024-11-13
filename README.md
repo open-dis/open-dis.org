@@ -95,6 +95,12 @@ Leif Gruenwoldt is a software developer employed as an embedded contractor for t
 
 Based on project activity we believe there are many users of Open-DIS. But it's not well known where and how it's being used. We'd very much appreciate to hear from our users. Please feel free to open a pull request with a change to the below list to identify your project.
 
+## DIS plugin for Unreal
+
+The US Air Force GRILL (Gaming Research Integration for Learning Laboratory) have used the [Open DIS CPP project](https://github.com/open-dis/open-dis-cpp) to create a DIS Plugin for Unreal.
+
+https://github.com/AF-GRILL/DISPluginForUnreal
+
 ## AUV Workbench (Naval Postgraduate School)
 
 AUV Workbench is a tool for rehearsal and playback of autonomous vehicle operations. AUV Workbench makes use of both the binary and XML serialization formats. It can send both IEEE binary and XML formats, and can send messages over XMPP chat rooms.
